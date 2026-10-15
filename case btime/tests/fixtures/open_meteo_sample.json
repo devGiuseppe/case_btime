@@ -1,0 +1,10 @@
+{
+  "latitude": -23.55,
+  "longitude": -46.63,
+  "current": {
+    "temperature_2m": 24.5,
+    "relative_humidity_2m": 55,
+    "wind_speed_10m": 8.2,
+    "weather_code": 0
+  }
+}
