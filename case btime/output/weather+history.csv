@@ -1,0 +1,92 @@
+mapa_alvo,hp_termico,umidade_spray,velocidade_vento_boost,bombsite_status,timestamp_plant,origem_drop
+São Paulo,24.7,62,7.2,Nublado leve na B,2026-10-15T14:34:31.849200-03:00,open-meteo
+Belém,31.4,61,16.5,Garoa depistada,2026-10-15T14:45:29.376791-03:00,open-meteo
+Porto Alegre,20.1,87,14.8,Pancada rápida,2026-10-15T14:45:31.193885-03:00,open-meteo
+Salvador,29.3,61,20.2,Auskip Limpo (Solzão),2026-10-15T14:45:32.985966-03:00,open-meteo
+Rio de Janeiro,25.9,79,9.1,Nublado leve na B,2026-10-15T14:45:34.777065-03:00,open-meteo
+Salvador,29.3,61,20.2,Auskip Limpo (Solzão),2026-10-15T14:45:36.577563-03:00,open-meteo
+Rio de Janeiro,25.9,79,9.1,Nublado leve na B,2026-10-15T14:45:38.344903-03:00,open-meteo
+Manaus,36.0,42,5.6,Overpass Fechado,2026-10-15T14:45:40.101906-03:00,open-meteo
+Manaus,36.0,42,5.6,Overpass Fechado,2026-10-15T14:45:41.985563-03:00,open-meteo
+Manaus,36.0,42,5.6,Overpass Fechado,2026-10-15T14:45:43.952515-03:00,open-meteo
+Curitiba,22.2,69,5.2,Nublado leve na B,2026-10-15T14:45:45.878024-03:00,open-meteo
+Recife,28.9,56,11.7,Nublado leve na B,2026-10-15T14:45:47.620470-03:00,open-meteo
+Belo Horizonte,27.4,52,6.7,Overpass Fechado,2026-10-15T14:45:49.404150-03:00,open-meteo
+Brasília,25.0,59,10.5,Overpass Fechado,2026-10-15T14:45:51.184706-03:00,open-meteo
+Brasília,25.0,59,10.5,Overpass Fechado,2026-10-15T14:45:52.974748-03:00,open-meteo
+Salvador,29.3,61,20.2,Auskip Limpo (Solzão),2026-10-15T14:45:54.754140-03:00,open-meteo
+Rio de Janeiro,25.9,79,9.1,Nublado leve na B,2026-10-15T14:45:56.553004-03:00,open-meteo
+Brasília,25.0,59,10.5,Overpass Fechado,2026-10-15T14:45:58.362600-03:00,open-meteo
+Brasília,25.0,59,10.5,Overpass Fechado,2026-10-15T14:46:00.154378-03:00,open-meteo
+Brasília,25.0,59,10.5,Overpass Fechado,2026-10-15T14:46:01.903768-03:00,open-meteo
+Porto Alegre,20.1,87,14.8,Pancada rápida,2026-10-15T14:46:03.676695-03:00,open-meteo
+Belém,31.4,61,16.5,Garoa depistada,2026-10-15T14:46:05.419343-03:00,open-meteo
+Belo Horizonte,27.4,52,6.7,Overpass Fechado,2026-10-15T14:46:07.243658-03:00,open-meteo
+Salvador,29.3,61,20.2,Auskip Limpo (Solzão),2026-10-15T14:46:09.074737-03:00,open-meteo
+Recife,28.9,56,11.7,Nublado leve na B,2026-10-15T14:46:10.977449-03:00,open-meteo
+Brasília,25.0,59,10.5,Overpass Fechado,2026-10-15T14:46:12.853597-03:00,open-meteo
+Rio de Janeiro,25.9,79,9.1,Nublado leve na B,2026-10-15T14:46:14.694371-03:00,open-meteo
+Recife,28.9,56,11.7,Nublado leve na B,2026-10-15T14:46:16.577812-03:00,open-meteo
+Porto Alegre,20.1,87,14.8,Pancada rápida,2026-10-15T14:46:18.511246-03:00,open-meteo
+Belo Horizonte,27.4,52,6.7,Overpass Fechado,2026-10-15T14:46:20.369005-03:00,open-meteo
+Belo Horizonte,27.4,52,6.7,Overpass Fechado,2026-10-15T14:46:22.251929-03:00,open-meteo
+Belo Horizonte,27.4,52,6.7,Overpass Fechado,2026-10-15T14:46:24.161564-03:00,open-meteo
+Porto Alegre,20.1,87,14.8,Pancada rápida,2026-10-15T14:46:26.020298-03:00,open-meteo
+Manaus,36.0,42,5.6,Overpass Fechado,2026-10-15T14:46:27.903288-03:00,open-meteo
+Recife,28.9,56,11.7,Nublado leve na B,2026-10-15T14:46:29.744648-03:00,open-meteo
+Belém,31.4,61,16.5,Garoa depistada,2026-10-15T14:46:31.569482-03:00,open-meteo
+Porto Alegre,20.1,87,14.8,Pancada rápida,2026-10-15T14:46:33.442886-03:00,open-meteo
+Belo Horizonte,27.4,52,6.7,Overpass Fechado,2026-10-15T14:46:35.314541-03:00,open-meteo
+Rio de Janeiro,25.9,79,9.1,Nublado leve na B,2026-10-15T14:46:37.186225-03:00,open-meteo
+Manaus,36.0,42,5.6,Overpass Fechado,2026-10-15T14:46:39.070112-03:00,open-meteo
+Brasília,25.0,59,10.5,Overpass Fechado,2026-10-15T14:46:40.935413-03:00,open-meteo
+Belo Horizonte,27.4,52,6.7,Overpass Fechado,2026-10-15T14:46:42.870047-03:00,open-meteo
+Curitiba,22.2,69,5.2,Nublado leve na B,2026-10-15T14:46:44.762249-03:00,open-meteo
+Curitiba,22.2,69,5.2,Nublado leve na B,2026-10-15T14:46:46.728385-03:00,open-meteo
+Manaus,36.0,42,5.6,Overpass Fechado,2026-10-15T14:46:48.643951-03:00,open-meteo
+Rio de Janeiro,25.9,79,9.1,Nublado leve na B,2026-10-15T14:46:50.497733-03:00,open-meteo
+Porto Alegre,20.1,87,14.8,Pancada rápida,2026-10-15T14:46:52.484105-03:00,open-meteo
+Manaus,36.0,42,5.6,Overpass Fechado,2026-10-15T14:46:54.452971-03:00,open-meteo
+Rio de Janeiro,25.9,79,9.1,Nublado leve na B,2026-10-15T14:46:56.454671-03:00,open-meteo
+Belo Horizonte,27.4,52,6.7,Overpass Fechado,2026-10-15T14:46:58.402312-03:00,open-meteo
+Belo Horizonte,27.4,52,6.7,Overpass Fechado,2026-10-15T14:47:00.260052-03:00,open-meteo
+Salvador,29.3,61,20.2,Auskip Limpo (Solzão),2026-10-15T14:47:02.169659-03:00,open-meteo
+Manaus,36.0,42,5.6,Overpass Fechado,2026-10-15T14:47:04.102221-03:00,open-meteo
+São Paulo,24.8,62,6.9,Nublado leve na B,2026-10-15T14:47:06.070774-03:00,open-meteo
+Rio de Janeiro,25.9,79,9.1,Nublado leve na B,2026-10-15T14:47:08.001874-03:00,open-meteo
+Manaus,36.0,42,5.6,Overpass Fechado,2026-10-15T14:47:09.887002-03:00,open-meteo
+Curitiba,22.2,69,5.2,Nublado leve na B,2026-10-15T14:47:11.865996-03:00,open-meteo
+Belo Horizonte,27.4,52,6.7,Overpass Fechado,2026-10-15T14:47:13.803114-03:00,open-meteo
+Salvador,29.3,61,20.2,Auskip Limpo (Solzão),2026-10-15T14:47:15.751661-03:00,open-meteo
+Curitiba,22.2,69,5.2,Nublado leve na B,2026-10-15T14:47:17.611277-03:00,open-meteo
+Salvador,29.3,61,20.2,Auskip Limpo (Solzão),2026-10-15T14:47:19.436561-03:00,open-meteo
+São Paulo,24.8,62,6.9,Nublado leve na B,2026-10-15T14:47:21.335812-03:00,open-meteo
+Recife,28.9,56,11.7,Nublado leve na B,2026-10-15T14:47:23.234385-03:00,open-meteo
+São Paulo,24.8,62,6.9,Nublado leve na B,2026-10-15T14:47:25.084337-03:00,open-meteo
+Porto Alegre,20.1,87,14.8,Pancada rápida,2026-10-15T14:47:26.953311-03:00,open-meteo
+Salvador,29.3,61,20.2,Auskip Limpo (Solzão),2026-10-15T14:47:28.792782-03:00,open-meteo
+Salvador,29.3,61,20.2,Auskip Limpo (Solzão),2026-10-15T14:47:30.718058-03:00,open-meteo
+Porto Alegre,20.1,87,14.8,Pancada rápida,2026-10-15T14:47:32.660452-03:00,open-meteo
+Recife,28.9,56,11.7,Nublado leve na B,2026-10-15T14:47:34.481490-03:00,open-meteo
+Belo Horizonte,27.4,52,6.7,Overpass Fechado,2026-10-15T14:47:36.502705-03:00,open-meteo
+Recife,28.9,56,11.7,Nublado leve na B,2026-10-15T14:47:38.367562-03:00,open-meteo
+Belo Horizonte,27.4,52,6.7,Overpass Fechado,2026-10-15T14:47:40.320082-03:00,open-meteo
+Recife,28.9,56,11.7,Nublado leve na B,2026-10-15T14:47:42.279028-03:00,open-meteo
+Recife,28.9,56,11.7,Nublado leve na B,2026-10-15T14:47:44.214843-03:00,open-meteo
+Belém,31.4,61,16.5,Garoa depistada,2026-10-15T14:47:46.144904-03:00,open-meteo
+Manaus,36.0,42,5.6,Overpass Fechado,2026-10-15T14:47:48.029368-03:00,open-meteo
+Belo Horizonte,27.4,52,6.7,Overpass Fechado,2026-10-15T14:47:49.959791-03:00,open-meteo
+Salvador,29.3,61,20.2,Auskip Limpo (Solzão),2026-10-15T14:47:51.819767-03:00,open-meteo
+São Paulo,24.8,62,6.9,Nublado leve na B,2026-10-15T14:47:53.693633-03:00,open-meteo
+Belo Horizonte,27.4,52,6.7,Overpass Fechado,2026-10-15T14:47:55.643658-03:00,open-meteo
+Belo Horizonte,27.4,52,6.7,Overpass Fechado,2026-10-15T14:47:57.492926-03:00,open-meteo
+Brasília,25.0,59,10.5,Overpass Fechado,2026-10-15T14:47:59.375061-03:00,open-meteo
+Recife,28.9,56,11.7,Nublado leve na B,2026-10-15T14:48:01.268014-03:00,open-meteo
+Salvador,29.3,61,20.2,Auskip Limpo (Solzão),2026-10-15T14:48:03.127470-03:00,open-meteo
+Curitiba,22.2,69,5.2,Nublado leve na B,2026-10-15T14:48:05.053277-03:00,open-meteo
+Recife,28.9,56,11.7,Nublado leve na B,2026-10-15T14:48:06.972296-03:00,open-meteo
+Recife,28.9,56,11.7,Nublado leve na B,2026-10-15T14:48:08.886486-03:00,open-meteo
+Recife,28.9,56,11.7,Nublado leve na B,2026-10-15T14:48:10.859734-03:00,open-meteo
+Belém,31.4,61,16.5,Garoa depistada,2026-10-15T14:48:12.736083-03:00,open-meteo
+Porto Alegre,20.1,87,14.8,Pancada rápida,2026-10-15T14:48:14.634747-03:00,open-meteo
+Salvador,29.3,61,20.2,Auskip Limpo (Solzão),2026-10-15T14:48:16.567961-03:00,open-meteo
